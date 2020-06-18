@@ -1,3 +1,16 @@
+/* Input */
+/* 3 3
+Nikki John 100
+John Neha 50
+Neha Nikki 40 */
+
+/* Output */
+/* Nikki will pay 50 to the John
+Nikki will pay 10 to the Neha
+2 */
+
+
+
 #include <iostream>
 #include<set>
 #include<map>  //To store net balance of the person.
